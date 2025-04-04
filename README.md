@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi there, my name is Jorge 👋 </b><img 
 
+![https://github.com/georgemoriles](./foto_profile.jpg)
+
 <!--
 **georgemoriles/georgemoriles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
