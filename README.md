@@ -1,4 +1,4 @@
-## Hi there, my name is Jorge 👋
+<h1 align="center"><b>Hi there, my name is Jorge 👋 </b><img 
 
 <!--
 **georgemoriles/georgemoriles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
