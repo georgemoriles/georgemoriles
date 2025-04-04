@@ -10,15 +10,17 @@
 - I'm Technical Telecommunications Engineer Telecommunications trained in the world of world of programming
 
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
+<div align="center">
 <p align="center">
 <a href="https://github.com/georgemoriles">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=georgemoriles&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=georgemoriles&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</div>
 <!--
 **georgemoriles/georgemoriles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
